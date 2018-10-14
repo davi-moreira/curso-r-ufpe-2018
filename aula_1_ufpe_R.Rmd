@@ -646,12 +646,15 @@ head(turmas_pe)  # início da base de dados
 
 <!-- \newpage --> 
 
-# Git Commit
+<!-- \newpage --> 
 
+# Atividade Prática - Git Commit
 
-# Atividade Prática 
+* Assista ao Webinar [\textcolor{blue}{Managing Part 2}](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/). Faça o versionamento do seu projeto e crie um repositório público.
 
-* Faça a instalação do [\textcolor{blue}{R}](https://cran.r-project.org/), do [\textcolor{blue}{RStudio}](https://www.rstudio.com/) e do [\textcolor{blue}{Miktex}](https://miktex.org/).
+# Atividade Prática - R
+
+<!-- * Faça a instalação do [\textcolor{blue}{R}](https://cran.r-project.org/), do [\textcolor{blue}{RStudio}](https://www.rstudio.com/) e do [\textcolor{blue}{Miktex}](https://miktex.org/). --> 
 
 * Inicie o RStudio, abra um novo R Script declare duas variáveis (`x` e `y`), 
 atribua valores numéricos a elas e o resultado de sua soma à variável `z`.
