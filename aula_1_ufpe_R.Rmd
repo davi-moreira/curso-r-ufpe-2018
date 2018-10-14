@@ -648,9 +648,9 @@ head(turmas_pe)  # início da base de dados
 
 <!-- \newpage --> 
 
-# Atividade Prática - Git Commit
+# Atividade Prática - Git Commit / Push / Pull
 
-* Assista ao Webinar [\textcolor{blue}{Managing Part 2}](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/). Faça o versionamento do seu projeto e crie um repositório público.
+* Assista ao Webinar [\textcolor{blue}{Managing Part 2}](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/). Faça o versionamento do seu projeto e crie um repositório público. Veja como fazer o `commit` e o `push` para o repositório. Veja também como importar (`pull`) o repositório.
 
 # Atividade Prática - R
 
